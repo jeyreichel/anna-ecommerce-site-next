@@ -18,6 +18,7 @@ An e-commerce site for Nike sneakers built with the new Next.js 13 Beta (and oth
 ### Admin Section
 
 ![progress6](https://user-images.githubusercontent.com/73758525/221421117-0ce7b81a-2647-4de5-93f5-0cd4ef0d8d79.png)
+
 ## About
 
 - For testing and experimenting all the new features in Next.js 13 Beta (`/app` dir, server components and everything new)
@@ -56,7 +57,7 @@ An e-commerce site for Nike sneakers built with the new Next.js 13 Beta (and oth
 - To clone:
 
 ```bash
-git clone https://github.com/amirfakhrullah/ecommerce-next13beta.git
+git clone https://github.com/Artempanchina/anna-ecommerce-next.git
 ```
 
 - Create and set up the `.env` file, refer to `.env.sample` for the required keys
