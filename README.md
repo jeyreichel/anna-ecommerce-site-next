@@ -2,9 +2,6 @@
 
 An e-commerce site for Nike sneakers built with the new Next.js 13 Beta (and other packages like tRPC, Next-Auth, Prisma,...)
 
-> **Warning**
-> Not a real e-commerce site. Built for experimenting and learning purposes.
-
 ## Demo
 
 ![progress1](https://user-images.githubusercontent.com/73758525/212482738-8eb76e3b-2cf8-42f6-86ee-8b0c9b4b63eb.png)
