@@ -46,7 +46,7 @@ An e-commerce site for Nike sneakers built with the new Next.js 13 Beta (and oth
 
 ## Cron Job
 
-- GitHub Action
+- GitHub Action.
 
 ## Setting up locally
 
