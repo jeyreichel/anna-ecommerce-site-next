@@ -1,6 +1,6 @@
 # Checks
 
-An e-commerce site for Nike sneakers built with the new Next.js 13 Beta (and other packages like tRPC, Next-Auth, Prisma,...)
+An e-commerce site for Nike sneakers built with the new Next.js 13 Beta (and other packages like tRPC, Next-Auth, Prisma,....)
 
 ## Demo
 
